@@ -6,3 +6,6 @@ rudder on pin (3), both Wings use same pin (5) and Aileron on pin(6)*** of Atmeg
 
 The code is compatible to work with nrf on following devices:
 Arduino Uno ,Nano ,Promini .etc using Atmega328.
+
+This code eliminates the use of an external Receiver and performs recieving and flight controlling on 
+a single board / single atmega328.
