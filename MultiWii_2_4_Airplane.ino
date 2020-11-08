@@ -10,5 +10,5 @@
  *
  * Have fun, and do not forget MultiWii is made possible and brought to you under the GPL License.
  *
- *Airplane Modified
+ *This code has been modified by ***ARCHIT BUBBER**** to use nrf for Airplane and have everything on a single board/atmega.
  */
