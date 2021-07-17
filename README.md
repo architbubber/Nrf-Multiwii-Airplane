@@ -9,3 +9,8 @@ Arduino Uno ,Nano ,Promini .etc using Atmega328.
 
 This code eliminates the use of an external Receiver and performs recieving and flight controlling on 
 a single board / single atmega328.
+
+After uploadng and connecting to multiwii gui, if no imu values are being received,
+then there's an issue with the nrf module or it's wiring.
+If you are receiving values and Aux4 is high ,then nrf is connected to transmitter 
+else if Aux4 is low then no signal is being recieved from transmitter.
